@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html#requirements",
+    "href": "about.html#requirements",
+    "title": "Ex10_Presentation",
+    "section": "Requirements",
+    "text": "Requirements\n\nGood academic standing from Undergrad\nVery good understanding of STATISTICS and basic programming.\n\n\nstat = \"STATSTICS\" \nmath = 2 * length(stat)\nmath\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#get-ready",
+    "href": "about.html#get-ready",
+    "title": "Ex10_Presentation",
+    "section": "Get Ready !!!",
+    "text": "Get Ready !!!\n\nGet ready for Intensive but Interesting Marathon\nWork at MDS pace, if not, you will have a lot to catch up on\n\n\nmds = \"MDS\" \npace = 10 * length(mds)\npace\n\n[1] 10"
+  },
+  {
+    "objectID": "about.html#quizzes",
+    "href": "about.html#quizzes",
+    "title": "Ex10_Presentation",
+    "section": "Quizzes",
+    "text": "Quizzes\n\nPrepare solid cheat sheets as cues not to reproduce your note.\nHave a good study and rest, and shoot your quizzes."
+  }
+]

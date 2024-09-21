@@ -1,0 +1,41 @@
+---
+title: "Ex10_Presentation"
+author: Lukman Lateef
+format: revealjs
+editor: visual
+output-location: default
+---
+
+# Getting Into UBC -MDS
+
+## Requirements
+
+-   Good academic standing from Undergrad
+
+-   Very good understanding of STATISTICS and basic programming.
+
+```{r chunk_1, echo = TRUE}
+stat = "STATSTICS" 
+math = 2 * length(stat)
+math
+```
+
+# Lectures and Labs
+
+## Get Ready !!!
+
+-   Get ready for [***Intensive***]{.underline} but [***Interesting***]{.underline} Marathon
+
+-   Work at MDS pace, if not, you will have a lot to catch up on
+
+```{r chunk_2, echo = TRUE}
+mds = "MDS" 
+pace = 10 * length(mds)
+pace
+```
+
+## Quizzes
+
+-   Prepare solid cheat sheets as cues not to reproduce your note.
+
+-   Have a good study and rest, and shoot your quizzes.
